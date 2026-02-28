@@ -1,10 +1,10 @@
 <div>
-<h1 style="margin-bottom:5px; color: transparent; background-image: linear-gradient(45deg,greenyellow, gold); font-size: 3em; background-clip:text; width: max-content;">Sankalp Omar</h1>
+<h1 style="margin-bottom:5px; color:gold; font-size: 3em;">Sankalp Omar</h1>
 <br>
 <h3 style="margin-top:0; font-weight:normal;">
 Second Year CSE Student • Full Stack Developer • ML Explorer
 </h3>
-<img src="http://readme-typing-svg.herokuapp.com?font=Roboto Slab&size=21&duration=3000&pause=500&width=500&lines=Turning+ideas+into+working+software%2C+one+commit+at+a+time.;Building+tools+that+I+would+actually+use.;Learning+DSA+for+clear+thinking.;Exploring+ML+-+building%2C+testing%2C+iterating.;Curious+about+system+design.;Shipping+projects+%3E+collecting+certificates.;Open+to+internships+and+collaboration." />
+<img src="http://readme-typing-svg.herokuapp.com?font=Google+Sans&size=21&duration=3000&pause=500&width=700&lines=Turning+ideas+into+working+software%2C+one+commit+at+a+time.;Building+tools+that+I+would+actually+use.;Learning+DSA+for+clear+thinking.;Exploring+ML+-+building%2C+testing%2C+iterating.;Curious+about+system+design.;Shipping+projects+%3E+collecting+certificates.;Open+to+internships+and+collaboration."/>
 </div>
 
 <hr/>
@@ -16,7 +16,7 @@ Second Year CSE Student • Full Stack Developer • ML Explorer
 <li>My core focus areas are <b>Data Structures & Algorithms (Java)</b>, <b>Full Stack Development</b>, and <b>Applied Machine Learning</b>.</li>
 <li>Strengthening problem-solving through <b>Data Structures & Algorithms (Java)</b>.</li>
 <li>Building full-stack web applications and experimenting with machine learning systems.</li>
-<li>I build production-minded student projects — from ML classifiers and data pipelines to full-stack applications like <b>Melodious</b> and independent utilities like <b>directorymap</b>.</li>
+<li>I build production-minded student projects - from ML classifiers and data pipelines to full-stack applications like <b>Melodious</b> and independent utilities like <b>directorymap</b>.</li>
 <li>Currently developing <b>dtbom.space</b>, a platform where I publish practical tools and real-world projects.</li>
 <li><b>Actively seeking internship opportunities where I can contribute meaningfully and grow fast.</b></li>
 </ul>
