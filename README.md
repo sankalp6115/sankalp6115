@@ -8,30 +8,28 @@ Second Year CS Student @ HBTU • Building Tools & Learning Systems
 </div>
 
 ---
+## 👋 About Me
 
-## About Me
-
-I'm a second-year CS student and full-stack developer focused on building production-quality tools that solve real problems. I work across the entire stack - from FastAPI backends and database design to frontend interfaces - and ship software that I use daily.
+I'm a second-year CS student and full-stack developer focused on building production-quality tools that solve real problems. I work across the entire stack — from FastAPI backends and database design to React frontends with Tailwind CSS — and ship software that I use daily.
 
 **What I build:**
-- Full-stack web applications with FastAPI, Node.js, and modern JavaScript
+- Full-stack web applications with FastAPI, Node.js, React, and Tailwind CSS
 - Local-first systems prioritizing performance and offline capability
 - ML-powered tools using TensorFlow and ONNX for real-world applications
 - Desktop applications with Electron and native system integrations
 
 **Current technical focus:**
-- Learning Data Structures and Algorithms
 - Deploying applications on Linux servers and managing VM infrastructure
 - Building scalable backend architectures with proper database design
 - Implementing ML pipelines from training to production inference
 - Learning Docker containerization for portable deployments
 
 **Projects I've shipped:**
-- **Melodious** - Local-first music player with FastAPI backend, SQLite metadata store, and fuzzy search
-- **Mechatron** - Electron app for system-wide mechanical keyboard sound simulation using native macOS hooks
-- **Star Pharmaceuticals** - Offline-first CRM system for pharmaceutical field sales built with DexieDB and Capacitor
-- **DirectoryMap** - Python CLI tool for generating structured filesystem directory maps with change detection
-- **Sound Sentinel** - Real-time audio detection system using DSP pre-filtering and ONNX ML pipeline
+- **Melodious** — Local-first music player with FastAPI backend, SQLite metadata store, and fuzzy search
+- **Mechatron** — Electron app for system-wide mechanical keyboard sound simulation using native macOS hooks
+- **Star Pharmaceuticals** — Offline-first CRM system for pharmaceutical field sales built with IndexedDB and Capacitor
+- **DirectoryMap** — Python CLI tool for generating structured filesystem directory maps with change detection
+- **Sound Sentinel** — Real-time audio detection system using DSP pre-filtering and ONNX ML pipeline
 
 I approach projects end-to-end: from architecture decisions and implementation to deployment and real-world usage. When something breaks, I debug it. When I need a feature, I build it.
 
@@ -51,7 +49,7 @@ Internship opportunities where I can contribute to production systems, work with
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,6 +57,8 @@ Internship opportunities where I can contribute to production systems, work with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Frontend**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -91,7 +91,6 @@ Internship opportunities where I can contribute to production systems, work with
 - Ranked top 1.4% in JEE Mains 2024
 - Reliance Foundation Undergraduate Scholarship (2024-28)
 - 250+ problems solved on LeetCode and GeeksForGeeks
--  
 
 ```txt
  /\      /\
