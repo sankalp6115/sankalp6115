@@ -10,7 +10,7 @@ Second Year CS Student @ HBTU • Building Tools & Learning Systems
 ---
 ## 👋 About Me
 
-I'm a second-year CS student and full-stack developer focused on building production-quality tools that solve real problems. I work across the entire stack — from FastAPI backends and database design to React frontends with Tailwind CSS — and ship software that I use daily.
+I'm a third-year CSE student and full-stack developer focused on building production-quality tools that solve real problems. I work across the entire stack - from FastAPI backends and database design to React frontends with Tailwind CSS - and ship software that I use daily.
 
 **What I build:**
 - Full-stack web applications with FastAPI, Node.js, React, and Tailwind CSS
@@ -25,11 +25,11 @@ I'm a second-year CS student and full-stack developer focused on building produc
 - Learning Docker containerization for portable deployments
 
 **Projects I've shipped:**
-- **Melodious** — Local-first music player with FastAPI backend, SQLite metadata store, and fuzzy search
-- **Mechatron** — Electron app for system-wide mechanical keyboard sound simulation using native macOS hooks
-- **Star Pharmaceuticals** — Offline-first CRM system for pharmaceutical field sales built with IndexedDB and Capacitor
-- **DirectoryMap** — Python CLI tool for generating structured filesystem directory maps with change detection
-- **Sound Sentinel** — Real-time audio detection system using DSP pre-filtering and ONNX ML pipeline
+- **Melodious** - Local-first music player with FastAPI backend, SQLite metadata store, and fuzzy search
+- **Mechatron** - Electron app for system-wide mechanical keyboard sound simulation using native macOS hooks
+- **Star Pharmaceuticals** - Offline-first CRM system for pharmaceutical field sales built with IndexedDB and Capacitor
+- **DirectoryMap** - Python CLI tool for generating structured filesystem directory maps with change detection
+- **Sound Sentinel** - Real-time audio detection system using DSP pre-filtering and ONNX ML pipeline
 
 I approach projects end-to-end: from architecture decisions and implementation to deployment and real-world usage. When something breaks, I debug it. When I need a feature, I build it.
 
